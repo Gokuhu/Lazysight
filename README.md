@@ -26,7 +26,7 @@ Credits
 --------------
 
 ### Coding the cheat
-Devecchi https://github.com/oluan
+Devecchi https://github.com/LuanDevecchi
 
 iPower https://github.com/iPower/
 
